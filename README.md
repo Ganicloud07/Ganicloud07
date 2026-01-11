@@ -27,9 +27,9 @@ I enjoy working with **Terraform, Linux, and AWS services** to solve real-world 
 - CI/CD (Basics)
 
 **OS & Scripting**
-- Linux (Amazon Linux, Ubuntu)
-- Bash
-- Python (Basics)
+- Linux (Amazon Linux )
+- Bash scripting 
+- Python scripting (Basics)
 
 ---
 
@@ -48,13 +48,14 @@ I enjoy working with **Terraform, Linux, and AWS services** to solve real-world 
 ---
 
 ## 🌐 Portfolio
-🔗 https://ganicloud07.github.io/
+🔗 https://ganicloud07.github.io/gani-portfolio/
 
 ---
 
 ## 🤝 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/tauseef-gani-8775a1348
 - 🐙 GitHub: https://github.com/Ganicloud07
+- 🧾 Naukri: https://www.naukri.com/mnjuser/profile?id=YOUR_ID
 
 ---
 ⭐ Thanks for visiting my profile!
