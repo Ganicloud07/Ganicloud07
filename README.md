@@ -1,16 +1,60 @@
-## Hi there 👋
+## 👋 Hi, I'm Tauseef Gani
 
-<!--
-**Ganicloud07/Ganicloud07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **AWS DevOps Engineer | Terraform | Cloud Automation**
 
-Here are some ideas to get you started:
+I’m a passionate DevOps & Cloud Engineer focused on building **scalable, secure, and automated AWS infrastructure**.  
+I enjoy working with **Terraform, Linux, and AWS services** to solve real-world infrastructure problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 What I Do
+- ☁️ Design & manage AWS cloud infrastructure
+- ⚙️ Build Infrastructure as Code (Terraform)
+- 🔐 IAM roles, policies & security best practices
+- 🐧 Linux server administration & automation
+- 📊 Monitoring, logging & optimization
+
+---
+
+## 🛠️ Tech Stack
+
+**Cloud**
+- AWS (EC2, S3, IAM, RDS, VPC, CloudWatch)
+
+**DevOps & IaC**
+- Terraform
+- Git & GitHub
+- CI/CD (Basics)
+
+**OS & Scripting**
+- Linux (Amazon Linux, Ubuntu)
+- Bash
+- Python (Basics)
+
+---
+
+## 📂 Featured Repositories
+- 🔹 **Terraform-practice** – AWS infrastructure with Terraform
+- 🔹 **simple-flask-application** – Python Flask app
+- 🔹 **gani-portfolio** – Personal portfolio website
+
+---
+
+## 🎯 Current Focus
+- Advanced Terraform modules
+- AWS networking & security
+- Real-world DevOps projects
+
+---
+
+## 🌐 Portfolio
+🔗 https://ganicloud07.github.io/
+
+---
+
+## 🤝 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/tauseef-gani-8775a1348
+- 🐙 GitHub: https://github.com/Ganicloud07
+
+---
+⭐ Thanks for visiting my profile!
