@@ -55,7 +55,8 @@ I enjoy working with **Terraform, Linux, and AWS services** to solve real-world 
 ## 🤝 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/tauseef-gani-8775a1348
 - 🐙 GitHub: https://github.com/Ganicloud07
-- 🧾 Naukri: https://www.naukri.com/mnjuser/profile?id=YOUR_ID
+- 🦊 GitLab: https://gitlab.com/dashboard/home
+
 
 ---
 ⭐ Thanks for visiting my profile!
