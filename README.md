@@ -1,88 +1,102 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 2400" width="900" height="2400">
-<foreignObject width="900" height="2400">
-<div xmlns="http://www.w3.org/1999/xhtml" style="font-family:'Segoe UI',Tahoma,Geneva,Verdana,sans-serif;line-height:1.6;color:#333;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);padding:20px;min-height:100vh;">
-<div style="max-width:1000px;margin:0 auto;background:rgba(255,255,255,0.95);border-radius:20px;box-shadow:0 20px 40px rgba(0,0,0,0.1);overflow:hidden;backdrop-filter:blur(10px);">
-<div style="background:linear-gradient(135deg,#1e3c72 0%,#2a5298 100%);color:white;padding:40px;text-align:center;position:relative;">
-<div style="content:'🚀';font-size:4em;display:block;margin-bottom:10px;">🚀</div>
-<h1 style="font-size:2.5em;margin-bottom:10px;text-shadow:2px 2px 4px rgba(0,0,0,0.3);">👋 Hi, I'm Tauseef Gani</h1>
-<h2 style="font-size:1.8em;margin-bottom:20px;color:#fff;">AWS DevOps Engineer | Terraform | Cloud Automation</h2>
-<p>I'm a passionate DevOps & Cloud Engineer focused on building <strong>scalable, secure, and automated AWS infrastructure</strong>.<br>I enjoy working with <strong>Terraform, Linux, and AWS services</strong> to solve real-world infrastructure problems.</p>
-</div>
+<h1 align="center">👋 Hi, I'm Tauseef Gani</h1>
 
-<div style="padding:40px;">
-<h3 style="font-size:1.5em;margin-bottom:20px;color:#2a5298;border-bottom:3px solid #667eea;padding-bottom:10px;">🧑‍💻 What I Do</h3>
-<ul style="list-style:none;display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:15px;padding:0;">
-<li style="background:#f8f9ff;padding:20px;border-radius:10px;border-left:5px solid #667eea;">☁️ Design & manage AWS cloud infrastructure</li>
-<li style="background:#f8f9ff;padding:20px;border-radius:10px;border-left:5px solid #667eea;">⚙️ Build Infrastructure as Code (Terraform)</li>
-<li style="background:#f8f9ff;padding:20px;border-radius:10px;border-left:5px solid #667eea;">🔐 IAM roles, policies & security best practices</li>
-<li style="background:#f8f9ff;padding:20px;border-radius:10px;border-left:5px solid #667eea;">🐧 Linux server administration & automation</li>
-<li style="background:#f8f9ff;padding:20px;border-radius:10px;border-left:5px solid #667eea;">📊 Monitoring, logging & optimization</li>
-</ul>
-</div>
+<h3 align="center">🚀 AWS DevOps Engineer | Terraform | Cloud Automation</h3>
 
-<hr style="border:none;height:2px;background:linear-gradient(90deg,transparent,#667eea,transparent);margin:40px 0;"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Engineer-orange?style=for-the-badge&logo=amazonaws">
+  <img src="https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-purple?style=for-the-badge&logo=terraform">
+  <img src="https://img.shields.io/badge/Linux-Server%20Admin-black?style=for-the-badge&logo=linux">
+  <img src="https://img.shields.io/badge/DevOps-Automation-blue?style=for-the-badge&logo=devops">
+</p>
 
-<div style="padding:40px;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:20px;">
-<h3 style="font-size:1.5em;margin-bottom:20px;color:#2a5298;border-bottom:3px solid #667eea;padding-bottom:10px;grid-column:1/-1;">🛠️ Tech Stack</h3>
-<div style="background:linear-gradient(135deg,#f5f7fa 0%,#c3cfe2 100%);padding:25px;border-radius:15px;text-align:center;">
-<h4 style="color:#2a5298;margin-bottom:15px;font-size:1.3em;">Cloud</h4>
-<ul style="list-style:disc;text-align:left;padding-left:20px;"><li>AWS (EC2, S3, IAM, RDS, VPC, CloudWatch)</li></ul>
-</div>
-<div style="background:linear-gradient(135deg,#f5f7fa 0%,#c3cfe2 100%);padding:25px;border-radius:15px;text-align:center;">
-<h4 style="color:#2a5298;margin-bottom:15px;font-size:1.3em;">DevOps & IaC</h4>
-<ul style="list-style:disc;text-align:left;padding-left:20px;"><li>Terraform</li><li>Git & GitHub</li><li>CI/CD (Basics)</li></ul>
-</div>
-<div style="background:linear-gradient(135deg,#f5f7fa 0%,#c3cfe2 100%);padding:25px;border-radius:15px;text-align:center;">
-<h4 style="color:#2a5298;margin-bottom:15px;font-size:1.3em;">OS & Scripting</h4>
-<ul style="list-style:disc;text-align:left;padding-left:20px;"><li>Linux (Amazon Linux )</li><li>Bash scripting</li><li>Python scripting (Basics)</li></ul>
-</div>
-</div>
+---
 
-<hr style="border:none;height:2px;background:linear-gradient(90deg,transparent,#667eea,transparent);margin:40px 0;"/>
+## 🧑‍💻 About Me
 
-<div style="padding:40px;">
-<h3 style="font-size:1.5em;margin-bottom:20px;color:#2a5298;border-bottom:3px solid #667eea;padding-bottom:10px;">📂 Featured Repositories</h3>
-<ul style="list-style:none;display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:15px;padding:0;">
-<li style="background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:white;padding:20px;border-radius:10px;"><strong>Terraform-practice</strong> – AWS infrastructure with Terraform</li>
-<li style="background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:white;padding:20px;border-radius:10px;"><strong>simple-flask-application</strong> – Python Flask app</li>
-<li style="background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:white;padding:20px;border-radius:10px;"><strong>gani-portfolio</strong> – Personal portfolio website</li>
-</ul>
-</div>
+I’m a passionate DevOps & Cloud Engineer focused on building **scalable, secure, and automated AWS infrastructure**.  
+I enjoy working with **Terraform, Linux, and AWS services** to solve real-world infrastructure problems.
 
-<hr style="border:none;height:2px;background:linear-gradient(90deg,transparent,#667eea,transparent);margin:40px 0;"/>
+---
 
-<div style="padding:40px;">
-<h3 style="font-size:1.5em;margin-bottom:20px;color:#2a5298;border-bottom:3px solid #667eea;padding-bottom:10px;">🎯 Current Focus</h3>
-<ul style="list-style:none;display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:15px;padding:0;">
-<li style="background:#f8f9ff;padding:20px;border-radius:10px;border-left:5px solid #667eea;">Advanced Terraform modules</li>
-<li style="background:#f8f9ff;padding:20px;border-radius:10px;border-left:5px solid #667eea;">AWS networking & security</li>
-<li style="background:#f8f9ff;padding:20px;border-radius:10px;border-left:5px solid #667eea;">Real-world DevOps projects</li>
-</ul>
-</div>
+## 🧑‍💻 What I Do
 
-<hr style="border:none;height:2px;background:linear-gradient(90deg,transparent,#667eea,transparent);margin:40px 0;"/>
+- ☁️ Design & manage AWS cloud infrastructure  
+- ⚙️ Build Infrastructure as Code (Terraform)  
+- 🔐 IAM roles, policies & security best practices  
+- 🐧 Linux server administration & automation  
+- 📊 Monitoring, logging & optimization  
 
-<div style="padding:40px;text-align:center;">
-<h3 style="font-size:1.5em;margin-bottom:20px;color:#2a5298;border-bottom:3px solid #667eea;padding-bottom:10px;">🌐 Portfolio</h3>
-<p style="font-size:1.2em;"><a href="https://ganicloud07.github.io/gani-portfolio/" style="color:#667eea;font-weight:bold;text-decoration:none;">https://ganicloud07.github.io/gani-portfolio/</a></p>
-</div>
+---
 
-<hr style="border:none;height:2px;background:linear-gradient(90deg,transparent,#667eea,transparent);margin:40px 0;"/>
+## 🛠️ Tech Stack
 
-<div style="padding:40px;text-align:center;">
-<h3 style="font-size:1.5em;margin-bottom:20px;color:#2a5298;border-bottom:3px solid #667eea;padding-bottom:10px;">🤝 Connect With Me</h3>
-<div style="display:flex;justify-content:center;gap:20px;flex-wrap:wrap;margin-top:20px;">
-<a href="https://www.linkedin.com/in/tauseef-gani-8775a1348" target="_blank" style="display:inline-block;padding:12px 24px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:white;text-decoration:none;border-radius:50px;font-weight:bold;box-shadow:0 5px 15px rgba(102,126,234,0.4);">💼 LinkedIn</a>
-<a href="https://github.com/Ganicloud07" target="_blank" style="display:inline-block;padding:12px 24px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:white;text-decoration:none;border-radius:50px;font-weight:bold;box-shadow:0 5px 15px rgba(102,126,234,0.4);">🐙 GitHub</a>
-<a href="https://gitlab.com/dashboard/home" target="_blank" style="display:inline-block;padding:12px 24px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:white;text-decoration:none;border-radius:50px;font-weight:bold;box-shadow:0 5px 15px rgba(102,126,234,0.4);">🦊 GitLab</a>
-</div>
-</div>
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20S3%20%7C%20IAM%20%7C%20RDS%20%7C%20VPC%20%7C%20CloudWatch-orange?logo=amazonaws&style=flat-square)
 
-<div style="text-align:center;padding:20px;background:#2a5298;color:white;font-size:1.1em;">
-⭐ Thanks for visiting my profile!
-</div>
+### ⚙️ DevOps & IaC
+![Terraform](https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-purple?logo=terraform&style=flat-square)
+![Git](https://img.shields.io/badge/Git-Version%20Control-red?logo=git&style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github&style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI/CD-Basics-blue?style=flat-square)
 
-</div>
-</div>
-</foreignObject>
-</svg>
+### 🐧 OS & Scripting
+![Linux](https://img.shields.io/badge/Linux-Amazon%20Linux-black?logo=linux&style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-Scripting-green?logo=gnubash&style=flat-square)
+![Python](https://img.shields.io/badge/Python-Basics-blue?logo=python&style=flat-square)
+
+---
+
+## 📂 Featured Repositories
+
+- 🔹 **Terraform-practice** – AWS infrastructure with Terraform  
+- 🔹 **simple-flask-application** – Python Flask app  
+- 🔹 **gani-portfolio** – Personal portfolio website  
+
+---
+
+## 🎯 Current Focus
+
+- Advanced Terraform modules  
+- AWS networking & security  
+- Real-world DevOps projects  
+
+---
+
+## 🌐 Portfolio
+
+🔗 [https://ganicloud07.github.io/gani-portfolio/](https://ganicloud07.github.io/gani-portfolio/)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ganicloud07&show_icons=true&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganicloud07&layout=compact&theme=tokyonight" height="170">
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganicloud07&theme=tokyonight">
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/tauseef-gani-8775a1348  
+
+🐙 **GitHub:**  
+https://github.com/Ganicloud07  
+
+🦊 **GitLab:**  
+https://gitlab.com/dashboard/home  
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>
+
