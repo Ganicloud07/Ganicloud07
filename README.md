@@ -71,9 +71,10 @@ I enjoy working with **Terraform, Linux, and AWS services** to solve real-world 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ganicloud07&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ganicloud07&layout=compact&theme=tokyonight" height="170">
+  <img src="https://stats.dooboo.io/api?username=Ganicloud07&show_icons=true&theme=tokyonight" height="170">
+  <img src="https://stats.dooboo.io/api/top-langs?username=Ganicloud07&layout=compact&theme=tokyonight" height="170">
 </p>
+
 
 ---
 
