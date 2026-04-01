@@ -115,12 +115,13 @@ This architecture represents my end-to-end DevOps workflow:
 * Fast & consistent deployment
 
 ---
-
 ## 📸 Project Preview
 
-![ECS](https://via.placeholder.com/800x400.png?text=ECS+Fargate+Project)
-![EKS](https://via.placeholder.com/800x400.png?text=EKS+Kubernetes)
-![Ansible](https://via.placeholder.com/800x400.png?text=3-Tier+Deployment)
+![ECS](https://via.placeholder.com/800x400.png?text=AWS+ECS+Fargate+Deployment)
+
+![EKS](https://via.placeholder.com/800x400.png?text=Kubernetes+EKS+Cluster)
+
+![Ansible](https://via.placeholder.com/800x400.png?text=Ansible+3-Tier+Deployment)
 
 ---
 
