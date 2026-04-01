@@ -8,6 +8,9 @@
   <img src="https://img.shields.io/badge/Linux-Server%20Admin-black?style=for-the-badge&logo=linux">
   <img src="https://img.shields.io/badge/DevOps-Automation-blue?style=for-the-badge&logo=devops">
   <img src="https://img.shields.io/badge/Ansible Infrastructure as Code (IaC) %20as%20Code-purple?style=for-the-badge&logo=terraform">
+  <img src="https://img.shields.io/badge/Docker-Automation-blue?style=for-the-badge&logo=devops">
+  <img src="https://img.shields.io/badge/Kubernetes%20Admin-black?style=for-the-badge&logo=linux">
+
 
 </p>
 
