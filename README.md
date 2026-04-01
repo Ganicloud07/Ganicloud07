@@ -1,5 +1,9 @@
 <h1 align="center">👋 Hi, I'm Tauseef Gani</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ganicloud07&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 <h3 align="center">🚀 AWS DevOps Engineer | Terraform | Cloud Automation</h3>
 
 <p align="center">
