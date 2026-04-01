@@ -44,6 +44,31 @@ I enjoy working with **Terraform, Linux, and AWS services** to solve real-world 
 ![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github&style=flat-square)
 ![CI/CD](https://img.shields.io/badge/CI/CD-Basics-blue?style=flat-square)
 
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker&style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?logo=kubernetes&style=flat-square)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-black?logo=ansible&style=flat-square)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?logo=jenkins&style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&style=flat-square)
+![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?logo=microsoftazure&style=flat-square)
+![GCP](https://img.shields.io/badge/GCP-Cloud-4285F4?logo=googlecloud&style=flat-square)
+
+![Linux](https://img.shields.io/badge/Linux-OS-FCC624?logo=linux&style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnubash&style=flat-square)
+![Nginx](https://img.shields.io/badge/Nginx-Web%20Server-009639?logo=nginx&style=flat-square)
+![Apache](https://img.shields.io/badge/Apache-Web%20Server-D22128?logo=apache&style=flat-square)
+
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-E6522C?logo=prometheus&style=flat-square)
+![Grafana](https://img.shields.io/badge/Grafana-Visualization-F46800?logo=grafana&style=flat-square)
+![ELK](https://img.shields.io/badge/ELK-Logging-005571?logo=elastic&style=flat-square)
+
+![SonarQube](https://img.shields.io/badge/SonarQube-Code%20Quality-4E9BCD?logo=sonarqube&style=flat-square)
+![Trivy](https://img.shields.io/badge/Trivy-Security-1904DA?logo=aquasecurity&style=flat-square)
+![Helm](https://img.shields.io/badge/Helm-K8s%20Package-0F1689?logo=helm&style=flat-square)
+
+![ArgoCD](https://img.shields.io/badge/ArgoCD-GitOps-EF7B4D?logo=argo&style=flat-square)
+![GitLab](https://img.shields.io/badge/GitLab-CI%2FCD-FCA121?logo=gitlab&style=flat-square)
+![CircleCI](https://img.shields.io/badge/CircleCI-CI%2FCD-343434?logo=circleci&style=flat-square)
+
 ### 🐧 OS & Scripting
 ![Linux](https://img.shields.io/badge/Linux-Amazon%20Linux-black?logo=linux&style=flat-square)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-green?logo=gnubash&style=flat-square)
