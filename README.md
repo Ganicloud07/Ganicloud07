@@ -52,11 +52,6 @@ I enjoy working with **Terraform, Linux, and AWS services** to solve real-world 
 ![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?logo=microsoftazure&style=flat-square)
 ![GCP](https://img.shields.io/badge/GCP-Cloud-4285F4?logo=googlecloud&style=flat-square)
 
-![Linux](https://img.shields.io/badge/Linux-OS-FCC624?logo=linux&style=flat-square)
-![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnubash&style=flat-square)
-![Nginx](https://img.shields.io/badge/Nginx-Web%20Server-009639?logo=nginx&style=flat-square)
-![Apache](https://img.shields.io/badge/Apache-Web%20Server-D22128?logo=apache&style=flat-square)
-
 ![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-E6522C?logo=prometheus&style=flat-square)
 ![Grafana](https://img.shields.io/badge/Grafana-Visualization-F46800?logo=grafana&style=flat-square)
 ![ELK](https://img.shields.io/badge/ELK-Logging-005571?logo=elastic&style=flat-square)
@@ -67,7 +62,7 @@ I enjoy working with **Terraform, Linux, and AWS services** to solve real-world 
 
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-GitOps-EF7B4D?logo=argo&style=flat-square)
 ![GitLab](https://img.shields.io/badge/GitLab-CI%2FCD-FCA121?logo=gitlab&style=flat-square)
-![CircleCI](https://img.shields.io/badge/CircleCI-CI%2FCD-343434?logo=circleci&style=flat-square)
+![GitLab](https://img.shields.io/badge/GitLab-CI%2FCD-FCA121?logo=gitlab&style=flat-square)
 
 ### 🐧 OS & Scripting
 ![Linux](https://img.shields.io/badge/Linux-Amazon%20Linux-black?logo=linux&style=flat-square)
