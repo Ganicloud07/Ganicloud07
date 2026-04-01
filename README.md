@@ -83,7 +83,7 @@ This architecture represents my end-to-end DevOps workflow:
 * 🚀 Deployment on AWS (ECS Fargate / EKS)
 * 📊 Monitoring with Prometheus & Grafana
 
-![Architecture](https://miro.medium.com/v2/resize\:fit:1400/1*6k9CkWq1N8MPWXc2MvmX9A.png)
+<img width="1536" height="1024" alt="architecture diagram" src="https://github.com/user-attachments/assets/504ee2bc-1a5e-4b21-9654-bc3f756979df" />
 
 ---
 
