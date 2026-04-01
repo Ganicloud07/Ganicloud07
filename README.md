@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-purple?style=for-the-badge&logo=terraform">
   <img src="https://img.shields.io/badge/Linux-Server%20Admin-black?style=for-the-badge&logo=linux">
   <img src="https://img.shields.io/badge/DevOps-Automation-blue?style=for-the-badge&logo=devops">
+  <img src="https://img.shields.io/badge/Ansible Infrastructure as Code (IaC) %20as%20Code-purple?style=for-the-badge&logo=terraform">
+
 </p>
 
 ---
