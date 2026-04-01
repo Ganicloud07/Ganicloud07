@@ -71,11 +71,16 @@ I enjoy working with **Terraform, Linux, and AWS services** to solve real-world 
 
 ---
 
-## 📂 Featured Repositories
+## 📂 Featured DevOps Projects
 
-- 🔹 **Terraform-practice** – AWS infrastructure with Terraform  
-- 🔹 **simple-flask-application** – Python Flask app  
-- 🔹 **gani-portfolio** – Personal portfolio website  
+* 🚀 **FULLSTACK-ECS-FARGATE-THROUGH-TERRAFORM**
+  End-to-end DevOps project using Terraform, AWS ECS Fargate, Docker & CI/CD pipeline
+
+* ⚙️ **eks-stack**
+  Production-ready Kubernetes (EKS) setup with Helm, auto-scaling & deployment strategies
+
+* 🔁 **ansible-3-tier-deployment**
+  Automated 3-tier architecture deployment using Ansible (Web, App, DB layers)
 
 ---
 
@@ -92,22 +97,26 @@ I enjoy working with **Terraform, Linux, and AWS services** to solve real-world 
 🔗 [https://ganicloud07.github.io/gani-portfolio/](https://ganicloud07.github.io/gani-portfolio/)
 
 ---
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://stats.dooboo.io/api?username=Ganicloud07&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://stats.dooboo.io/api/top-langs?username=Ganicloud07&layout=compact&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ganicloud07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganicloud07&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Contribution Streak & Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganicloud07&theme=tokyonight">
+  <img src="https://streak-stats.demolab.com?user=Ganicloud07&theme=tokyonight&hide_border=true"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganicloud07&theme=tokyo-night&hide_border=true"/>
+</p>
+
+
 
 ---
 
