@@ -12,8 +12,6 @@
 
 ---
 
-<!-- 🔥 TYPING ANIMATION -->
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=AWS+DevOps+Engineer;Terraform+%7C+Kubernetes+%7C+Docker;CI%2FCD+%7C+Cloud+Automation;Building+Scalable+Infrastructure" />
 </p>
@@ -23,7 +21,7 @@
 ## 🧑‍💻 About Me
 
 I’m a passionate DevOps & Cloud Engineer focused on building **scalable, secure, and automated AWS infrastructure**.
-I specialize in **Terraform, Kubernetes, CI/CD pipelines, and cloud automation** to solve real-world problems.
+I specialize in **Terraform, Kubernetes, CI/CD pipelines, and cloud automation**.
 
 ---
 
@@ -31,9 +29,9 @@ I specialize in **Terraform, Kubernetes, CI/CD pipelines, and cloud automation**
 
 * ☁️ Design & manage AWS cloud infrastructure
 * ⚙️ Build Infrastructure as Code (Terraform)
-* 🔐 IAM roles, policies & security best practices
-* 🐧 Linux server administration & automation
-* 📊 Monitoring, logging & performance optimization
+* 🔐 IAM roles & security best practices
+* 🐧 Linux server administration
+* 📊 Monitoring & performance optimization
 
 ---
 
@@ -76,33 +74,60 @@ I specialize in **Terraform, Kubernetes, CI/CD pipelines, and cloud automation**
 
 ## 🏗️ DevOps Architecture
 
+This architecture represents my end-to-end DevOps workflow:
+
+* 🧑‍💻 Developer pushes code to GitHub
+* ⚙️ CI/CD pipeline triggers (GitHub Actions / Jenkins)
+* 🐳 Docker image build & push
+* ☁️ Infrastructure provisioned using Terraform
+* 🚀 Deployment on AWS (ECS Fargate / EKS)
+* 📊 Monitoring with Prometheus & Grafana
+
 ![Architecture](https://miro.medium.com/v2/resize\:fit:1400/1*6k9CkWq1N8MPWXc2MvmX9A.png)
 
 ---
 
-## 📂 Featured DevOps Projects
+## 🚀 Featured DevOps Projects
 
-* 🚀 **FULLSTACK-ECS-FARGATE-THROUGH-TERRAFORM**
-  End-to-end DevOps project using Terraform, AWS ECS Fargate, Docker & CI/CD pipeline
+### 🔹 FULLSTACK-ECS-FARGATE-THROUGH-TERRAFORM
 
-* ⚙️ **eks-stack**
-  Production-ready Kubernetes (EKS) setup with Helm, auto-scaling & deployment strategies
+* Built AWS infra using Terraform
+* Deployed app on ECS Fargate
+* CI/CD with GitHub Actions
+* Docker containerization
 
-* 🔁 **ansible-3-tier-deployment**
-  Automated 3-tier architecture deployment using Ansible
+---
+
+### 🔹 eks-stack
+
+* AWS EKS Kubernetes cluster
+* Helm deployments
+* Auto-scaling + Load balancing
+* Monitoring integration
+
+---
+
+### 🔹 ansible-3-tier-deployment
+
+* Automated 3-tier architecture
+* Web, App, DB layers setup
+* Ansible playbooks
+* Fast & consistent deployment
 
 ---
 
 ## 📸 Project Preview
 
-![Preview](https://via.placeholder.com/800x400.png?text=Project+Preview)
+![ECS](https://via.placeholder.com/800x400.png?text=ECS+Fargate+Project)
+![EKS](https://via.placeholder.com/800x400.png?text=EKS+Kubernetes)
+![Ansible](https://via.placeholder.com/800x400.png?text=3-Tier+Deployment)
 
 ---
 
 ## 🎯 Current Focus
 
-* Advanced Terraform modules
-* AWS networking & security
+* Advanced Terraform
+* AWS security & networking
 * Real-world DevOps projects
 
 ---
@@ -116,7 +141,7 @@ I specialize in **Terraform, Kubernetes, CI/CD pipelines, and cloud automation**
 
 ## 🌐 Portfolio
 
-🔗 https://ganicloud07.github.io/gani-portfolio/
+https://ganicloud07.github.io/gani-portfolio/
 
 ---
 
