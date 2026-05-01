@@ -142,7 +142,7 @@ This architecture represents my end-to-end DevOps workflow:
 
 ## 🌐 Portfolio
 
-mellifluous-trifle-e25d60.netlify.app
+https://mellifluous-trifle-e25d60.netlify.app/
 
 ---
 
