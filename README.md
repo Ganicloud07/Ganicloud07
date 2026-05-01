@@ -142,7 +142,7 @@ This architecture represents my end-to-end DevOps workflow:
 
 ## 🌐 Portfolio
 
-https://ganicloud07.github.io/gani-portfolio/
+mellifluous-trifle-e25d60.netlify.app
 
 ---
 
